@@ -1,0 +1,4 @@
+config_amount: 1
+config_file: hits.txt
+config_type: classic
+config_proxy: proxy.txt
